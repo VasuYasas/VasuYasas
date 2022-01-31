@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasuYasas
 - 👀 I’m interested in programming and grapic designing.
-- 🌱 I’m currently learning BSc. (Hons) Computer Science (Software Engineering) at SLIIT.
+- 🌱 I’m currently learning BSc. (Hons) Computer Science (Information Technology) at SLIIT.
 
 
 <!---
